@@ -1,3 +1,4 @@
+# Notice: This is a fork. Get the most up-to-date version upstream: https://github.com/mak448a/AI-Drawing-Chatbot
 # AI Drawing ChatBot
 
 ![](https://img.shields.io/github/license/mak448a/Stable-Diffusion-Bot)
